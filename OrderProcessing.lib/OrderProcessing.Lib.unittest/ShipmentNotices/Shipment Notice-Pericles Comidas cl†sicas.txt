@@ -1,0 +1,20 @@
+Order 11073 (Pericles Comidas clásicas) has shipped!  Please update the order's ShipmentDate to today, then create an invoice from the attached document and send it to "nw.ar@platformbronx.com".
+
+The invoice address is:
+
+Pericles Comidas clásicas
+Calle Dr. Jorge Cash 321
+México D.F.
+Mexico  05033
+
+Here are the order details:
+
+Item Description	Quantity	Unit Price	Total
+Queso Cabrales	10	$21	$207.90
+Guaraná Fantástica	20	$5	$98.00
+
+The tax is $18.35; shipping is $25.00; and the order total is $349.25
+
+Please include the following comments to our customer: "Thank you for your business - we greatly appreciate it!  Your sales rep, Andrew Fuller, will be in touch soon with thank-you discounts."
+
+Thank you!

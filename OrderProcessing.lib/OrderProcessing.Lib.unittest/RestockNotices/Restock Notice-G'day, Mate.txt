@@ -1,0 +1,9 @@
+Subject:  Shipment Received: G'day, Mate
+
+We've received the following item(s) from our supplier G'day, Mate (24):
+
+ProductID	Product Name	Quantity
+51	Manjimup Dried Apples	20
+53	Perth Pasties	20
+
+Please update the Orders Manager with this information.

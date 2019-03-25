@@ -1,0 +1,20 @@
+Order 11078 (Bólido Comidas preparadas) has shipped!  Please update the order's ShipmentDate to today, then create an invoice from the attached document and send it to "nw.ar@platformbronx.com".
+
+The invoice address is:
+
+Bólido Comidas preparadas
+C/ Araquil, 67
+Madrid
+Spain  28023
+
+Here are the order details:
+
+Item Description	Quantity	Unit Price	Total
+Grandma's Boysenberry Spread	10	$25	$247.50
+Sasquatch Ale	10	$14	$138.60
+
+The tax is $23.17; shipping is $140.00; and the order total is $549.27
+
+Please include the following comments to our customer: "Thank you for your business - we greatly appreciate it!  Your sales rep, Anne Dodsworth, will be in touch soon with thank-you discounts."
+
+Thank you!

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8AFC2D88-66C5-4585-A858-374031F4DE87}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OrderProcessing.lib</RootNamespace>
+    <AssemblyName>OrderProcessing.lib</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Activities" />
+    <Reference Include="System.Activities.Presentation" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Activities\ExtractDateFromMailMessageActivity.cs" />
+    <Compile Include="RestockNotice.cs" />
+    <Compile Include="PaymentNotice.cs" />
+    <Compile Include="OrderRequest.cs" />
+    <Compile Include="RegisterMetadata.cs" />
+    <Compile Include="ShipmentNotice.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="OrderRequests\Order Request-Antonio Moreno Taquer°a.txt" />
+    <Content Include="OrderRequests\Order Request-B¢lido Comidas preparadas.txt" />
+    <Content Include="OrderRequests\Order Request-Franchi S.p.A..txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="OrderRequests\Order Request-Gourmet Lanchonetes.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="OrderRequests\Order Request-LINO-Delicateses.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="OrderRequests\Order Request-Princesa Isabel Vinhos.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="OrderRequests\Order Request-Reggiani Caseifici.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="OrderRequests\Order Request-Romero y tomillo.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="OrderRequests\Order Request-Toms SpezialitÑten.txt" />
+    <Content Include="OrderRequests\Order Request-Wartian Herkku.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PaymentNotices\Payment Received - Bolido Comidas preparadas.txt" />
+    <Content Include="PaymentNotices\Payment Received - Ernst Handel.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PaymentNotices\Payment Received - Great Lakes Food Market.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PaymentNotices\Payment Received - La maison d%27Asie.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PaymentNotices\Payment Received - LILA-Supermercado.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PaymentNotices\Payment Received - LINO-Delicateses.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PaymentNotices\Payment Received - Pericles Comidas cl†sicas.txt" />
+    <Content Include="PaymentNotices\Payment Received - Queen Cozinha.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PaymentNotices\Payment Received - Reggiani Caseifici.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="RestockNotices\Shipment Received - Cooperativa de Quesos %27Las Cabras%27.txt" />
+    <Content Include="RestockNotices\Shipment Received - Formaggi Fortini s.r.l..txt" />
+    <Content Include="RestockNotices\Shipment Received - Lyngbysild.txt" />
+    <Content Include="RestockNotices\Shipment Received - Pasta Buttini s.r.l..txt" />
+    <Content Include="RestockNotices\Shipment Received - Pavlova, Ltd..txt" />
+    <Content Include="RestockNotices\Shipment Received - Plutzer Lebensmittelgro·mÑrkte AG.txt" />
+    <Content Include="RestockNotices\Shipment Received - Specialty Biscuits, Ltd..txt" />
+    <Content Include="RestockNotices\Shipment Received - Svensk Sjîfîda AB.txt" />
+    <Content Include="RestockNotices\Shipment Received - Tokyo Traders.txt" />
+    <Content Include="ShipmentNotices\Shipment Notice-Blauer See Delikatessen.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ShipmentNotices\Shipment Notice-Bon app%27.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ShipmentNotices\Shipment Notice-B¢lido Comidas preparadas.txt" />
+    <Content Include="ShipmentNotices\Shipment Notice-Cactus Comidas para llevar.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ShipmentNotices\Shipment Notice-Great Lakes Food Market.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ShipmentNotices\Shipment Notice-LILA-Supermercado.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ShipmentNotices\Shipment Notice-Pericles Comidas cl†sicas.txt" />
+    <Content Include="ShipmentNotices\Shipment Notice-Rancho grande.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ShipmentNotices\Shipment Notice-Rattlesnake Canyon Grocery.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ShipmentNotices\Shipment Notice-Ricardo Adocicados.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ShipmentNotices\Shipment Notice-Richter Supermarkt.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ShipmentNotices\Shipment Notice-Romero y tomillo.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ShipmentNotices\Shipment Notice-Simons bistro.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,7 @@
+We've received the following item(s) from our supplier Plutzer Lebensmittelgroßmärkte AG (12):
+
+ProductID	Product Name	Quantity
+28	Rössle Sauerkraut	80
+64	Wimmers gute Semmelknödel	60
+
+Please update the Orders Manager with this information.

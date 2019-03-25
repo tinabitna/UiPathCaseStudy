@@ -1,0 +1,6 @@
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.lib\bin\Release\OrderProcessing.lib.dll
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.lib\bin\Release\OrderProcessing.lib.pdb
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.lib\obj\Release\OrderProcessing.lib.csprojAssemblyReference.cache
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.lib\obj\Release\OrderProcessing.lib.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.lib\obj\Release\OrderProcessing.lib.dll
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.lib\obj\Release\OrderProcessing.lib.pdb

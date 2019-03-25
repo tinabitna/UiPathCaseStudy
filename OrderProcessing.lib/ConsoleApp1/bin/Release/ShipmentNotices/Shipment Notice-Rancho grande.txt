@@ -1,0 +1,20 @@
+Order 11019 (Rancho grande) has shipped!  Please update the order's ShipmentDate to today, then create an invoice from the attached document and send it to "nw.ar@platformbronx.com".
+
+The invoice address is:
+
+Rancho grande
+Av. del Libertador 900
+Buenos Aires
+Argentina  1010
+
+Here are the order details:
+
+Item Description	Quantity	Unit Price	Total
+Spegesild	3	$12	$36.00
+Maxilaku	2	$20	$40.00
+
+The tax is $4.56; shipping is $3.00; and the order total is $83.56
+
+Please include the following comments to our customer: "Thank you for your business - we greatly appreciate it!  Your sales rep, Michael Suyama, will be in touch soon with thank-you discounts."
+
+Thank you!

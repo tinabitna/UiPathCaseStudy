@@ -1,0 +1,6 @@
+We've received the following item(s) from our supplier Pavlova, Ltd. (7):
+
+ProductID	Product Name	Quantity
+16	Pavlova	20
+
+Please update the Orders Manager with this information.

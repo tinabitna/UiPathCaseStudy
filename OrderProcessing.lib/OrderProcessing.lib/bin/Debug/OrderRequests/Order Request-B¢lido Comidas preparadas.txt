@@ -1,0 +1,10 @@
+Company:	Bólido Comidas preparadas (BOLID)
+Placed By:	Robert King (7)
+Order Date:	12-06-2018
+Required Date:	12-13-2018
+Shipper:	Federal Shipping (3)
+Freight:	$171.91
+Shipping:	default
+
+Product (ProductID)	Quantity	Discount
+Sir Rodney's Marmalade (20)	23	0.02

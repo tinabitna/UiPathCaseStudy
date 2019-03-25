@@ -1,0 +1,16 @@
+Company:	Reggiani Caseifici (REGGC)
+Placed By:	Steven Buchanan (5)
+Order Date:	12-03-2018
+Required Date:	12-10-2018
+Shipper:	United Package (2)
+Freight:	$1008.00
+Shipping:	default
+
+Product (ProductID)	Quantity	Discount
+Chef Anton's Gumbo Mix (5)	10	0.01
+Grandma's Boysenberry Spread (6)	20	0.02
+Ikura (10)	20	0.02
+Alice Mutton (17)	30	0.03
+Sasquatch Ale (34)	20	0.02
+Sirop d'érable (61)	10	0.01
+Wimmers gute Semmelknödel (64)	20	0.02

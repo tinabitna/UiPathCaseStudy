@@ -1,0 +1,43 @@
+Order 11077 (Rattlesnake Canyon Grocery) has shipped!  Please update the order's ShipmentDate to today, then create an invoice from the attached document and send it to "nw.ar@platformbronx.com".
+
+The invoice address is:
+
+Rattlesnake Canyon Grocery
+2817 Milton Dr.
+Albuquerque
+NM, USA  87110
+
+Here are the order details:
+
+Item Description	Quantity	Unit Price	Total
+Chang	24	$19	$446.88
+Aniseed Syrup	4	$10	$40.00
+Chef Anton's Cajun Seasoning	1	$22	$22.00
+Grandma's Boysenberry Spread	1	$25	$25.00
+Uncle Bob's Organic Dried Pears	1	$30	$30.00
+Northwoods Cranberry Sauce	2	$40	$80.00
+Ikura	1	$31	$31.00
+Queso Manchego La Pastora	2	$38	$76.00
+Konbu	4	$6	$24.00
+Tofu	1	$23	$23.00
+Pavlova	2	$17	$34.00
+Sir Rodney's Marmalade	1	$81	$81.00
+Tunnbröd	2	$9	$18.00
+Mascarpone Fabioli	1	$32	$32.00
+Chartreuse verte	2	$18	$36.00
+Jack's New England Clam Chowder	3	$10	$30.00
+Spegesild	3	$12	$36.00
+Filo Mix	2	$7	$14.00
+Pâté chinois	2	$24	$48.00
+Camembert Pierrot	2	$34	$68.00
+Wimmers gute Semmelknödel	2	$33	$66.00
+Louisiana Hot Spiced Okra	1	$17	$17.00
+Röd Kaviar	2	$15	$30.00
+Rhönbräu Klosterbier	4	$8	$32.00
+Original Frankfurter grüne Soße	2	$13	$26.00
+
+The tax is $81.95; shipping is $9.00; and the order total is $1456.83
+
+Please include the following comments to our customer: "Thank you for your business - we greatly appreciate it!  Your sales rep, Nancy Davolio, will be in touch soon with thank-you discounts."
+
+Thank you!

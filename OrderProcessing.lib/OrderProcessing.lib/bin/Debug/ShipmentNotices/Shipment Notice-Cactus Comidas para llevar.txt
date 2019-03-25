@@ -1,0 +1,20 @@
+Order 11054 (Cactus Comidas para llevar) has shipped!  Please update the order's ShipmentDate to today, then create an invoice from the attached document and send it to "nw.ar@platformbronx.com".
+
+The invoice address is:
+
+Cactus Comidas para llevar
+Cerrito 333
+Buenos Aires
+Argentina  1010
+
+Here are the order details:
+
+Item Description	Quantity	Unit Price	Total
+Geitost	10	$3	$29.70
+Laughing Lumberjack Lager	20	$14	$274.40
+
+The tax is $18.25; shipping is $0.00; and the order total is $322.35
+
+Please include the following comments to our customer: "Thank you for your business - we greatly appreciate it!  Your sales rep, Laura Callahan, will be in touch soon with thank-you discounts."
+
+Thank you!

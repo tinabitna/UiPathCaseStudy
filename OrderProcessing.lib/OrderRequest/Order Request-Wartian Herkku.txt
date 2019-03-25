@@ -1,0 +1,17 @@
+Company:	Wartian Herkku (WARTH)
+Placed By:	Andrew Fuller (2)
+Order Date:	12-02-2018
+Required Date:	12-09-2018
+Shipper:	Speedy Express (1)
+Freight:	$609.49
+Shipping:	default
+
+Product (ProductID)	Quantity	Discount
+Grandma's Boysenberry Spread (6)	6	0
+Uncle Bob's Organic Dried Pears (7)	11	0.01
+Gorgonzola Telino (31)	13	0.02
+Côte de Blaye (38)	17	0.02
+Spegesild (46)	12	0.01
+Maxilaku (49)	8	0
+Tourtière (54)	6	0
+Outback Lager (70)	6	0

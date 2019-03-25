@@ -1,0 +1,17 @@
+Company:	Toms Spezialitäten (TOMSP)
+Placed By:	Janet Leverling (3)
+Order Date:	12-06-2018
+Required Date:	12-13-2018
+Shipper:	United Package (2)
+Freight:	$750.14
+Shipping:	default
+
+Product (ProductID)	Quantity	Discount
+Guaraná Fantástica (24)	8	0
+Schoggi Schokolade (27)	12	0.01
+Steeleye Stout (35)	13	0.02
+Spegesild (46)	8	0
+Chocolade (48)	10	0.01
+Pâté chinois (55)	15	0.02
+Gnocchi di nonna Alice (56)	9	0
+Raclette Courdavault (59)	22	0.02

@@ -1,0 +1,20 @@
+Order 11071 (LILA-Supermercado) has shipped!  Please update the order's ShipmentDate to today, then create an invoice from the attached document and send it to "nw.ar@platformbronx.com".
+
+The invoice address is:
+
+LILA-Supermercado
+Carrera 52 con Ave. Bolívar #65-98 Llano Largo
+Barquisimeto
+Lara, Venezuela  3508
+
+Here are the order details:
+
+Item Description	Quantity	Unit Price	Total
+Uncle Bob's Organic Dried Pears	15	$30	$441.00
+Konbu	10	$6	$59.40
+
+The tax is $30.02; shipping is $1.00; and the order total is $531.42
+
+Please include the following comments to our customer: "Thank you for your business - we greatly appreciate it!  Your sales rep, Nancy Davolio, will be in touch soon with thank-you discounts."
+
+Thank you!

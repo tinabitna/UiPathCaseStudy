@@ -1,0 +1,21 @@
+Order 11059 (Ricardo Adocicados) has shipped!  Please update the order's ShipmentDate to today, then create an invoice from the attached document and send it to "nw.ar@platformbronx.com".
+
+The invoice address is:
+
+Ricardo Adocicados
+Av. Copacabana, 267
+Rio de Janeiro
+RJ, Brazil  02389-890
+
+Here are the order details:
+
+Item Description	Quantity	Unit Price	Total
+Konbu	30	$6	$174.60
+Alice Mutton	12	$39	$463.32
+Camembert Pierrot	35	$34	$1154.30
+
+The tax is $107.53; shipping is $86.00; and the order total is $1985.75
+
+Please include the following comments to our customer: "Thank you for your business - we greatly appreciate it!  Your sales rep, Andrew Fuller, will be in touch soon with thank-you discounts."
+
+Thank you!

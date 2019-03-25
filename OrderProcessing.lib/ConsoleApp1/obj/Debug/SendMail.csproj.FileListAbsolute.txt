@@ -1,0 +1,55 @@
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\ShipmentNotices\Shipment Notice-Blauer See Delikatessen.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\ShipmentNotices\Shipment Notice-Bon app'.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\ShipmentNotices\Shipment Notice-Bólido Comidas preparadas.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\ShipmentNotices\Shipment Notice-Cactus Comidas para llevar.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\ShipmentNotices\Shipment Notice-Great Lakes Food Market.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\ShipmentNotices\Shipment Notice-LILA-Supermercado.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\ShipmentNotices\Shipment Notice-Pericles Comidas clásicas.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\ShipmentNotices\Shipment Notice-Rancho grande.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\ShipmentNotices\Shipment Notice-Rattlesnake Canyon Grocery.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\ShipmentNotices\Shipment Notice-Ricardo Adocicados.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\ShipmentNotices\Shipment Notice-Richter Supermarkt.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\ShipmentNotices\Shipment Notice-Romero y tomillo.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\ShipmentNotices\Shipment Notice-Simons bistro.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\obj\Debug\SendMail.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\OrderRequests\Order Request-Antonio Moreno Taquería.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\OrderRequests\Order Request-Bólido Comidas preparadas.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\OrderRequests\Order Request-Franchi S.p.A..txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\OrderRequests\Order Request-Gourmet Lanchonetes.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\OrderRequests\Order Request-LINO-Delicateses.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\OrderRequests\Order Request-Princesa Isabel Vinhos.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\OrderRequests\Order Request-Reggiani Caseifici.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\OrderRequests\Order Request-Romero y tomillo.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\OrderRequests\Order Request-Toms Spezialitäten.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\OrderRequests\Order Request-Wartian Herkku.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\obj\Debug\SendMail.csprojAssemblyReference.cache
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\PaymentNotices\Payment Received - Bólido Comidas preparadas.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\PaymentNotices\Payment Received - Ernst Handel.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\PaymentNotices\Payment Received - Great Lakes Food Market.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\PaymentNotices\Payment Received - La maison d'Asie.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\PaymentNotices\Payment Received - LILA-Supermercado.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\PaymentNotices\Payment Received - LINO-Delicateses.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\PaymentNotices\Payment Received - Pericles Comidas clásicas.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\PaymentNotices\Payment Received - Queen Cozinha.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\PaymentNotices\Payment Received - Reggiani Caseifici.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\RestockNotices\Shipment Received - Cooperativa de Quesos 'Las Cabras'.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\RestockNotices\Shipment Received - Formaggi Fortini s.r.l..txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\RestockNotices\Shipment Received - Lyngbysild.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\RestockNotices\Shipment Received - Pasta Buttini s.r.l..txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\RestockNotices\Shipment Received - Pavlova, Ltd..txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\RestockNotices\Shipment Received - Plutzer Lebensmittelgroßmärkte AG.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\RestockNotices\Shipment Received - Specialty Biscuits, Ltd..txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\RestockNotices\Shipment Received - Svensk Sjöföda AB.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\RestockNotices\Shipment Received - Tokyo Traders.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\obj\Debug\SendMail.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\obj\Debug\SendMail.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\ConsoleApp1\bin\Debug\ConsoleApp1.pdb

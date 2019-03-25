@@ -1,0 +1,19 @@
+Order 11040 (Great Lakes Food Market) has shipped!  Please update the order's ShipmentDate to today, then create an invoice from the attached document and send it to "nw.ar@platformbronx.com".
+
+The invoice address is:
+
+Great Lakes Food Market
+2732 Baker Blvd.
+Eugene
+OR, USA  97403
+
+Here are the order details:
+
+Item Description	Quantity	Unit Price	Total
+Sir Rodney's Scones	20	$10	$196.00
+
+The tax is $11.76; shipping is $19.00; and the order total is $226.76
+
+Please include the following comments to our customer: "Thank you for your business - we greatly appreciate it!  Your sales rep, Margaret Peacock, will be in touch soon with thank-you discounts."
+
+Thank you!

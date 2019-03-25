@@ -1,0 +1,21 @@
+Order 11076 (Bon app') has shipped!  Please update the order's ShipmentDate to today, then create an invoice from the attached document and send it to "nw.ar@platformbronx.com".
+
+The invoice address is:
+
+Bon app'
+12, rue des Bouchers
+Marseille
+France  13008
+
+Here are the order details:
+
+Item Description	Quantity	Unit Price	Total
+Grandma's Boysenberry Spread	20	$25	$490.00
+Tofu	20	$23	$450.80
+Teatime Chocolate Biscuits	10	$9	$89.10
+
+The tax is $61.79; shipping is $38.00; and the order total is $1129.69
+
+Please include the following comments to our customer: "Thank you for your business - we greatly appreciate it!  Your sales rep, Margaret Peacock, will be in touch soon with thank-you discounts."
+
+Thank you!

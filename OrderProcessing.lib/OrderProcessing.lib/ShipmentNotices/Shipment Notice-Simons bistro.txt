@@ -1,0 +1,19 @@
+Order 11074 (Simons bistro) has shipped!  Please update the order's ShipmentDate to today, then create an invoice from the attached document and send it to "nw.ar@platformbronx.com".
+
+The invoice address is:
+
+Simons bistro
+Vinbæltet 34
+Kobenhavn
+Denmark  1734
+
+Here are the order details:
+
+Item Description	Quantity	Unit Price	Total
+Pavlova	14	$17	$233.24
+
+The tax is $13.99; shipping is $18.00; and the order total is $265.23
+
+Please include the following comments to our customer: "Thank you for your business - we greatly appreciate it!  Your sales rep, Robert King, will be in touch soon with thank-you discounts."
+
+Thank you!

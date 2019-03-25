@@ -1,0 +1,21 @@
+Order 11058 (Blauer See Delikatessen) has shipped!  Please update the order's ShipmentDate to today, then create an invoice from the attached document and send it to "nw.ar@platformbronx.com".
+
+The invoice address is:
+
+Blauer See Delikatessen
+Forsterstr. 57
+Mannheim
+Germany  68306
+
+Here are the order details:
+
+Item Description	Quantity	Unit Price	Total
+Sir Rodney's Scones	3	$10	$30.00
+Camembert Pierrot	21	$34	$699.72
+Sirop d'érable	4	$29	$116.00
+
+The tax is $50.74; shipping is $31.00; and the order total is $927.46
+
+Please include the following comments to our customer: "Thank you for your business - we greatly appreciate it!  Your sales rep, Anne Dodsworth, will be in touch soon with thank-you discounts."
+
+Thank you!

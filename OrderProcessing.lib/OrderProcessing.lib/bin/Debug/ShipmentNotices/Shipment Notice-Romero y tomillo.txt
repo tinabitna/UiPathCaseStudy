@@ -1,0 +1,21 @@
+Order 11079 (Romero y tomillo) has shipped!  Please update the order's ShipmentDate to today, then create an invoice from the attached document and send it to "nw.ar@platformbronx.com".
+
+The invoice address is:
+
+Romero y tomillo
+Gran Vía, 1
+Madrid
+Spain  28001
+
+Here are the order details:
+
+Item Description	Quantity	Unit Price	Total
+Gustaf's Knäckebröd	10	$21	$207.90
+Geitost	30	$3	$87.30
+Original Frankfurter grüne Soße	10	$13	$128.70
+
+The tax is $25.43; shipping is $192.00; and the order total is $641.33
+
+Please include the following comments to our customer: "Thank you for your business - we greatly appreciate it!  Your sales rep, Anne Dodsworth, will be in touch soon with thank-you discounts."
+
+Thank you!

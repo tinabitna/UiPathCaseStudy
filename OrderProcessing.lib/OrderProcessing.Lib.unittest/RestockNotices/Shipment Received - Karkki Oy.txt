@@ -1,0 +1,7 @@
+We've received the following item(s) from our supplier Karkki Oy (23):
+
+ProductID	Product Name	Quantity
+49	Maxilaku	30
+50	Valkoinen suklaa	60
+
+Please update the Orders Manager with this information.

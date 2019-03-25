@@ -1,0 +1,7 @@
+We've received the following item(s) from our supplier Specialty Biscuits, Ltd. (8):
+
+ProductID	Product Name	Quantity
+21	Sir Rodney's Scones	40
+68	Scottish Longbreads	10
+
+Please update the Orders Manager with this information.

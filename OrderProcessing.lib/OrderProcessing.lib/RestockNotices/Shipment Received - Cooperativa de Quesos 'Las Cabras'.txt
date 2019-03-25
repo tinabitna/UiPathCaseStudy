@@ -1,0 +1,6 @@
+We've received the following item(s) from our supplier Cooperativa de Quesos 'Las Cabras' (5):
+
+ProductID	Product Name	Quantity
+11	Queso Cabrales	30
+
+Please update the Orders Manager with this information.

@@ -1,0 +1,6 @@
+We've received the following item(s) from our supplier Leka Trading (20):
+
+ProductID	Product Name	Quantity
+43	Ipoh Coffee	50
+
+Please update the Orders Manager with this information.

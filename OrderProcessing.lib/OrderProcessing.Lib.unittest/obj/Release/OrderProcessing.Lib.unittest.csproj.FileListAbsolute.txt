@@ -1,0 +1,29 @@
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Release\ShipmentNotices\Shipment Notice-Blauer See Delikatessen.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Release\ShipmentNotices\Shipment Notice-Bon app'.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Release\ShipmentNotices\Shipment Notice-Bólido Comidas preparadas.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Release\ShipmentNotices\Shipment Notice-Cactus Comidas para llevar.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Release\ShipmentNotices\Shipment Notice-Great Lakes Food Market.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Release\ShipmentNotices\Shipment Notice-LILA-Supermercado.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Release\ShipmentNotices\Shipment Notice-Pericles Comidas clásicas.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Release\ShipmentNotices\Shipment Notice-Rancho grande.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Release\ShipmentNotices\Shipment Notice-Rattlesnake Canyon Grocery.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Release\ShipmentNotices\Shipment Notice-Ricardo Adocicados.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Release\ShipmentNotices\Shipment Notice-Richter Supermarkt.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Release\ShipmentNotices\Shipment Notice-Romero y tomillo.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Release\ShipmentNotices\Shipment Notice-Simons bistro.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Release\OrderProcessing.Lib.unittest.dll
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Release\OrderProcessing.Lib.unittest.pdb
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Release\OrderProcessing.lib.dll
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Release\OrderProcessing.lib.pdb
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\obj\Release\OrderProcessing.Lib.unittest.csprojAssemblyReference.cache
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\obj\Release\OrderProcessing.Lib.unittest.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\obj\Release\OrderProcessing.Lib.unittest.csproj.CopyComplete
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\obj\Release\OrderProcessing.Lib.unittest.dll
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\obj\Release\OrderProcessing.Lib.unittest.pdb

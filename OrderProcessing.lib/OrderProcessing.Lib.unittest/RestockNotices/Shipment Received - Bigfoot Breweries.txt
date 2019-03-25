@@ -1,0 +1,6 @@
+We've received the following item(s) from our supplier Bigfoot Breweries (16):
+
+ProductID	Product Name	Quantity
+35	Steeleye Stout	30
+
+Please update the Orders Manager with this information.

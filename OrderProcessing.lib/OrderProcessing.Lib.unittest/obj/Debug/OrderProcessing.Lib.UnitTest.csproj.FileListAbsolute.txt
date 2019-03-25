@@ -1,0 +1,98 @@
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\obj\Debug\OrderProcessing.Lib.unittest.csprojAssemblyReference.cache
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\obj\Debug\OrderProcessing.Lib.unittest.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderProcessing.Lib.unittest.dll
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderProcessing.Lib.unittest.pdb
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderProcessing.lib.dll
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderProcessing.lib.pdb
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\obj\Debug\OrderProcessing.Lib.unittest.csproj.CopyComplete
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\obj\Debug\OrderProcessing.Lib.unittest.dll
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\obj\Debug\OrderProcessing.Lib.unittest.pdb
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\ShipmentNotices\Shipment Notice-Blauer See Delikatessen.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\ShipmentNotices\Shipment Notice-Bon app'.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\ShipmentNotices\Shipment Notice-Bólido Comidas preparadas.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\ShipmentNotices\Shipment Notice-Cactus Comidas para llevar.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\ShipmentNotices\Shipment Notice-Great Lakes Food Market.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\ShipmentNotices\Shipment Notice-LILA-Supermercado.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\ShipmentNotices\Shipment Notice-Pericles Comidas clásicas.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\ShipmentNotices\Shipment Notice-Rancho grande.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\ShipmentNotices\Shipment Notice-Rattlesnake Canyon Grocery.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\ShipmentNotices\Shipment Notice-Ricardo Adocicados.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\ShipmentNotices\Shipment Notice-Richter Supermarkt.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\ShipmentNotices\Shipment Notice-Romero y tomillo.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\ShipmentNotices\Shipment Notice-Simons bistro.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderRequests\Order Request-Antonio Moreno Taquería.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderRequests\Order Request-Bólido Comidas preparadas.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderRequests\Order Request-Franchi S.p.A..txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderRequests\Order Request-Gourmet Lanchonetes.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderRequests\Order Request-LINO-Delicateses.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderRequests\Order Request-Princesa Isabel Vinhos.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderRequests\Order Request-Reggiani Caseifici.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderRequests\Order Request-Romero y tomillo.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderRequests\Order Request-Toms Spezialitäten.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderRequests\Order Request-Wartian Herkku.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\PaymentNotices\Payment Received - Bólido Comidas preparadas.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\PaymentNotices\Payment Received - Ernst Handel.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\PaymentNotices\Payment Received - Great Lakes Food Market.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\PaymentNotices\Payment Received - La maison d'Asie.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\PaymentNotices\Payment Received - LILA-Supermercado.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\PaymentNotices\Payment Received - LINO-Delicateses.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\PaymentNotices\Payment Received - Pericles Comidas clásicas.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\PaymentNotices\Payment Received - Queen Cozinha.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\PaymentNotices\Payment Received - Reggiani Caseifici.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\RestockNotices\Shipment Received - Cooperativa de Quesos 'Las Cabras'.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\RestockNotices\Shipment Received - Formaggi Fortini s.r.l..txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\RestockNotices\Shipment Received - Lyngbysild.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\RestockNotices\Shipment Received - Pasta Buttini s.r.l..txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\RestockNotices\Shipment Received - Pavlova, Ltd..txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\RestockNotices\Shipment Received - Plutzer Lebensmittelgroßmärkte AG.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\RestockNotices\Shipment Received - Specialty Biscuits, Ltd..txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\RestockNotices\Shipment Received - Svensk Sjöföda AB.txt
+C:\Users\perscholas_student\Desktop\STUDENT JUAN M\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\RestockNotices\Shipment Received - Tokyo Traders.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\obj\Debug\OrderProcessing.Lib.UnitTest.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\obj\Debug\OrderProcessing.Lib.UnitTest.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\obj\Debug\OrderProcessing.Lib.UnitTest.dll
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\obj\Debug\OrderProcessing.Lib.UnitTest.pdb
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderRequests\Order Request-Franchi S.p.A..txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderRequests\Order Request-Gourmet Lanchonetes.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderRequests\Order Request-LINO-Delicateses.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderRequests\Order Request-Princesa Isabel Vinhos.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderRequests\Order Request-Reggiani Caseifici.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderRequests\Order Request-Romero y tomillo.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderRequests\Order Request-Wartian Herkku.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\PaymentNotices\Payment Received - Ernst Handel.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\PaymentNotices\Payment Received - Great Lakes Food Market.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\PaymentNotices\Payment Received - La maison d'Asie.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\PaymentNotices\Payment Received - LILA-Supermercado.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\PaymentNotices\Payment Received - LINO-Delicateses.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\PaymentNotices\Payment Received - Queen Cozinha.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\PaymentNotices\Payment Received - Reggiani Caseifici.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\ShipmentNotices\Shipment Notice-Blauer See Delikatessen.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\ShipmentNotices\Shipment Notice-Bon app'.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\ShipmentNotices\Shipment Notice-Cactus Comidas para llevar.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\ShipmentNotices\Shipment Notice-Great Lakes Food Market.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\ShipmentNotices\Shipment Notice-LILA-Supermercado.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\ShipmentNotices\Shipment Notice-Rancho grande.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\ShipmentNotices\Shipment Notice-Rattlesnake Canyon Grocery.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\ShipmentNotices\Shipment Notice-Ricardo Adocicados.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\ShipmentNotices\Shipment Notice-Richter Supermarkt.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\ShipmentNotices\Shipment Notice-Romero y tomillo.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\ShipmentNotices\Shipment Notice-Simons bistro.txt
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderProcessing.lib.dll
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderProcessing.lib.pdb
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\obj\Debug\OrderProcessing.Lib.UnitTest.csproj.CopyComplete
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderProcessing.Lib.UnitTest.dll
+\\Mac\Home\Desktop\CaseStudy\CASE STUDY_JM\OrderProcessing.lib\OrderProcessing.Lib.unittest\bin\Debug\OrderProcessing.Lib.UnitTest.pdb

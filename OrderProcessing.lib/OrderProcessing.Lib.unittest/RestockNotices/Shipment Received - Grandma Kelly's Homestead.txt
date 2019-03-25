@@ -1,0 +1,6 @@
+We've received the following item(s) from our supplier Grandma Kelly's Homestead (3):
+
+ProductID	Product Name	Quantity
+8	Northwoods Cranberry Sauce	50
+
+Please update the Orders Manager with this information.

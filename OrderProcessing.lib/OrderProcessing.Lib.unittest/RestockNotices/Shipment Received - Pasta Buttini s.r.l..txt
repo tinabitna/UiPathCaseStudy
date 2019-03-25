@@ -1,0 +1,6 @@
+We've received the following item(s) from our supplier Pasta Buttini s.r.l. (26):
+
+ProductID	Product Name	Quantity
+56	Gnocchi di nonna Alice	10
+
+Please update the Orders Manager with this information.

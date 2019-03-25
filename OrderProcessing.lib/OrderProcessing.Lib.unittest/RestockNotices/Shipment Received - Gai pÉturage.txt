@@ -1,0 +1,6 @@
+We've received the following item(s) from our supplier Gai pâturage (28):
+
+ProductID	Product Name	Quantity
+60	Camembert Pierrot	20
+
+Please update the Orders Manager with this information.

@@ -1,0 +1,16 @@
+Company:	Franchi S.p.A. (FRANS)
+Placed By:	Robert King (7)
+Order Date:	12-04-2018
+Required Date:	12-11-2018
+Shipper:	Federal Shipping (3)
+Freight:	$851.72
+Shipping:	default
+
+Product (ProductID)	Quantity	Discount
+Grandma's Boysenberry Spread (6)	11	0.01
+Gumbär Gummibärchen (26)	24	0.02
+Nord-Ost Matjeshering (30)	5	0
+Sasquatch Ale (34)	19	0.02
+Boston Crab Meat (40)	17	0.02
+Tourtière (54)	11	0.01
+Tarte au sucre (62)	23	0.02

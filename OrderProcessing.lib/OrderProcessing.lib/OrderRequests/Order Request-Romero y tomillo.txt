@@ -1,0 +1,12 @@
+Company:	Romero y tomillo (ROMEY)
+Placed By:	Robert King (7)
+Order Date:	12-03-2018
+Required Date:	12-06-2018
+Shipper:	Speedy Express (1)
+Freight:	$273.49
+Shipping:	default
+
+Product (ProductID)	Quantity	Discount
+Ikura (10)	14	0.02
+Alice Mutton (17)	6	0
+Gumbär Gummibärchen (26)	16	0.02

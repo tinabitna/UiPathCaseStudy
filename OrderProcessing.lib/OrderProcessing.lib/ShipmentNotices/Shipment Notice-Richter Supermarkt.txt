@@ -1,0 +1,21 @@
+Order 11075 (Richter Supermarkt) has shipped!  Please update the order's ShipmentDate to today, then create an invoice from the attached document and send it to "nw.ar@platformbronx.com".
+
+The invoice address is:
+
+Richter Supermarkt
+Grenzacherweg 237
+Genève
+Switzerland  1203
+
+Here are the order details:
+
+Item Description	Quantity	Unit Price	Total
+Chang	10	$19	$188.10
+Spegesild	30	$12	$349.20
+Lakkalikööri	2	$18	$36.00
+
+The tax is $34.40; shipping is $6.00; and the order total is $613.70
+
+Please include the following comments to our customer: "Thank you for your business - we greatly appreciate it!  Your sales rep, Laura Callahan, will be in touch soon with thank-you discounts."
+
+Thank you!

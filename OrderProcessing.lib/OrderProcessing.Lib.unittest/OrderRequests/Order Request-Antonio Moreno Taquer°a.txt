@@ -1,0 +1,17 @@
+Company:	Antonio Moreno Taquería (ANTON)
+Placed By:	Michael Suyama (6)
+Order Date:	12-04-2018
+Required Date:	12-11-2018
+Shipper:	Speedy Express (1)
+Freight:	$1554.98
+Shipping:	default
+
+Product (ProductID)	Quantity	Discount
+Genen Shouyu (15)	20	0.02
+Schoggi Schokolade (27)	30	0.03
+Nord-Ost Matjeshering (30)	30	0.03
+Sasquatch Ale (34)	20	0.02
+Escargots de Bourgogne (58)	30	0.03
+Vegie-spread (63)	30	0.03
+Laughing Lumberjack Lager (67)	10	0.01
+Röd Kaviar (73)	30	0.03

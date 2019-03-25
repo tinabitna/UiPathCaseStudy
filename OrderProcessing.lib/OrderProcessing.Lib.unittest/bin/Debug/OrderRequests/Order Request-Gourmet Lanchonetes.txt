@@ -1,0 +1,18 @@
+Company:	Gourmet Lanchonetes (GOURL)
+Placed By:	Robert King (7)
+Order Date:	12-02-2018
+Required Date:	12-09-2018
+Shipper:	Federal Shipping (3)
+Freight:	$929.86
+Shipping:	default
+
+Product (ProductID)	Quantity	Discount
+Thüringer Rostbratwurst (29)	21	0.02
+Chartreuse verte (39)	5	0
+Boston Crab Meat (40)	12	0.01
+Valkoinen suklaa (50)	23	0.02
+Tarte au sucre (62)	6	0
+Vegie-spread (63)	7	0
+Scottish Longbreads (68)	6	0
+Gudbrandsdalsost (69)	23	0.02
+Rhönbräu Klosterbier (75)	17	0.02
